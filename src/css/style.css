@@ -203,7 +203,7 @@
 
 @media (max-width: 1200px) {
 	body {
-	background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/bg-mobile.jpg?raw=true") no-repeat center/cover;
+	background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/src/imagens/bg-mobile.jpg?raw=true") no-repeat center/cover;
 	}
 
 	.fundo-video {
@@ -247,7 +247,7 @@
 
 @media (max-width: 500px) {
     body {
-        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/bg-mobile.jpg?raw=true") no-repeat center/cover;
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/src/imagens/bg-mobile.jpg?raw=true") no-repeat center/cover;
         }
 
 	.cabecalho {
@@ -277,7 +277,7 @@
 
 @media (max-width: 376px) {
     body {
-        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/bg-mobile.jpg?raw=true") no-repeat center/cover;
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/src/imagens/bg-mobile.jpg?raw=true") no-repeat center/cover;
         }
 	.modal #video {
 		width: 250px;
