@@ -238,9 +238,17 @@
 	.container .botao-trailer {
 		background-color: #263238;
 	}
+
+    #social-links a:visited {
+        color: #d1d1d1;
+    }
 }
 
 @media (max-width: 500px) {
+    body {
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/src/imagens/bg-mobile.jpg) no-repeat center/cover;
+        }
+
 	.cabecalho {
 		flex-wrap: wrap;
 		justify-content: center;
@@ -260,12 +268,23 @@
 		width: 300px;
 		height: 169px;
 	}
+
+    #social-links a:visited {
+        color: #d1d1d1;
+    }
 }
 
 @media (max-width: 376px) {
+    body {
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/src/imagens/bg-mobile.jpg) no-repeat center/cover;
+        }
 	.modal #video {
 		width: 250px;
 		height: 140px;
 	}
+
+    #social-links a:visited {
+        color: #d1d1d1;
+    }
 
 }
