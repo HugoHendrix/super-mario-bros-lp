@@ -10,6 +10,12 @@ Foi utilizado a tríade do desenvolvimento WEB. HTML, CSS e JS.
 
 ### DEV em DOBRO
 
+[Instagram](https://www.instagram.com/devemdobro/) 
+
+[Youtube](https://www.youtube.com/@DevemDobro)
+
+[Discord](https://discord.com/channels/821364094878613524/1064973937274015764)
+
 Os gêmeos Ricardo e Roberto Dias, trabalham com desenvolvimento há mais de 12 anos e nesse evento incrível e gratuito transmitiram seus conhecimentos para as pessoas que estão iniciando no Front-end.
 
 ![gêmeos Ricardo e Roberto Dias](https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/src/imagens/dev-em-dobro.JPG?raw=true)
