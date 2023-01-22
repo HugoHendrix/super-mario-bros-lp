@@ -4,6 +4,9 @@
 Nesse projeto foi desenvolvido uma landing page para o filme do Super Mário Bros.
 Foi utilizado a tríade do desenvolvimento WEB. HTML, CSS e JS.
 
+
+<a href="https://hugohendrix.github.io/super-mario-bros-lp/">Link do projeto</a>
+
 ### Semana do Zero ao Programador Contratado. 16/01/23 à 22/01/23. 
 
 ![Landing Page Super Mário Bros](https://github.com/HugoHendrix/super-mario-bros-lp/blob/main/src/imagens/landing%20page%20projeto.JPG?raw=true)
