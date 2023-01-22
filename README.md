@@ -1,5 +1,5 @@
 
-# Super Mário Bros Landig page
+# Super Mário Bros Landig Page
 
 Nesse projeto foi desenvolvido uma landing page para o filme do Super Mário Bros.
 Foi utilizado a tríade do desenvolvimento WEB. HTML, CSS e JS.
